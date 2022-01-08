@@ -5,6 +5,7 @@
 - 🔭 I’m currently working on **the end of my master's thesis and on data science projects.**
 - 🌱 I’m currently learning **neural networks and improving my knowledge in machine learning and statistics.**
 - 💬 Ask me about **anything, if i can help i'll be happy.**
+- 📫 How to reach me **diegocarvalhodesouza@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
